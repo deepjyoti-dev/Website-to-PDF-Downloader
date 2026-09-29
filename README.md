@@ -24,7 +24,7 @@ pip install pdfkit
 
 Install wkhtmltopdf:
 
-Windows
+Windows 
 
 Download from:
 
