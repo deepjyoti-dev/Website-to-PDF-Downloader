@@ -12,7 +12,7 @@ A4 PDF formatting
 UTF-8 support
 Technologies Used
 Python
-Tkinter
+Tkinter. 
 pdfkit
 wkhtmltopdf
 Multithreading
