@@ -32,6 +32,7 @@ wkhtmltopdf Official Website
 
 Default installation path:
 C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+
 How to Run
 python app.py
 Screenshot Section for GitHub
